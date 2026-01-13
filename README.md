@@ -7,3 +7,7 @@ REQUIREMENTS OF PROJECT:
 5) Average discount offered in each discount category.6) Total number of orders.
 6) Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)
 7) Show sales by different cities.![Uploading image.png…]()
+
+
+IMAGES
+![](Screenshots/Screenshot 2026-01-13 192414)
