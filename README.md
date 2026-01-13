@@ -10,14 +10,14 @@ REQUIREMENTS OF PROJECT:
 
 
 <p align="center">
-  <img src="screenshots/Screenshot 2026-01-13 192414.png" width="900">
+  <img src="Screenshots/Screenshot 2026-01-13 192414.png" width="900">
 </p>
 <p align="center">
-  <img src="screenshots/Screenshot 2026-01-13 192445.png" width="900">
+  <img src="Screenshots/Screenshot 2026-01-13 192445.png" width="900">
 </p>
 <p align="center">
-  <img src="screenshots/Screenshot 2026-01-13 192518.png" width="900">
+  <img src="Screenshots/Screenshot 2026-01-13 192518.png" width="900">
 </p>
 <p align="center">
-  <img src="screenshots/Screenshot 2026-01-13 192539.png" width="900">
+  <img src="Screenshots/Screenshot 2026-01-13 192539.png" width="900">
 </p>
